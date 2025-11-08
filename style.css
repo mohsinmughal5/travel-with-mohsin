@@ -40,9 +40,9 @@ header {
 }
 
 #logo {
-  width: 60px;
-  height: 60px;
-  background: url("/assets/facebook-icon.png") no-repeat center center/contain;
+  width: 90px;
+  height: 100px;
+  background: url("/assets/logo.png") no-repeat center center/contain;
 }
 
 /* Navbar Links */
